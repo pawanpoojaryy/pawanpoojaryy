@@ -10,3 +10,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />  Believes **Projects are only way to learn.**
 
 <h3 align="center"> Together, let's shape the future of technology <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> </h3> 
+ <h2>🚀 Projects</h2>
+
+- **Number Guesser** – A simple game where you guess the correct number.
+- **Rock Paper Scissors** – The classic game implemented with code.
